@@ -1,1 +1,2 @@
 # Mapping_Earthquakes
+Using Leaflet's library and Javascript D3 to read geoJSON files, we contructed dynamic maps with multiple layers, displaying earthquake information as circle markers that vary in size and color based on the magnitude of the earthquake in the last 7 days (as called by API from USGS website).  We also added a tectonic plate layer as a line string to show the correlation of earthquakes to the location of plate boundaries on the planet.  We add pop-up information for each quake to tell where it ocurred and its magnitude.  
